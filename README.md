@@ -35,12 +35,16 @@ CAVE (CAVE Automatic Virtual Environment) systems utilize multiple screens as wa
   CAVE Simulation
 </p>
 
+---
+
 <p align="center">
     <img width="1024" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Controller%20Mode%20GIF.gif?raw=true">
 </p>
 <p align="center">
   Switching between HMD and Controller View
 </p>
+
+---
 
 <p align="center">
     <img width="1024" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Free%20and%20Unfreeze%20GIF.gif?raw=true">
@@ -49,8 +53,10 @@ CAVE (CAVE Automatic Virtual Environment) systems utilize multiple screens as wa
   Freezing and Unfreezing the viewport
 </p>
 
+---
+
 <p align="center">
-    <img width="1024"" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Debug%20GIF.gif?raw=true">
+    <img width="1024" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Debug%20GIF.gif?raw=true">
 </p>
 <p align="center">
   Debug Mode
