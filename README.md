@@ -12,7 +12,7 @@ A virtual reality CAVE simulator in VR with Unity.
   </a>
 </p>
 <p align="center">
-  Click on the Image to access the full demo!
+  A 3-sided virtual reality CAVE
 </p>
 
 ---
