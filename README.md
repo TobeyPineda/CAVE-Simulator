@@ -29,31 +29,31 @@ CAVE (CAVE Automatic Virtual Environment) systems utilize multiple screens as wa
 ---
 
 <p align="center">
-    <img width="512" height="262" href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+    <img width="512" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/CAVE%20Simulator%20GIF.gif?raw=true">
 </p>
 <p align="center">
-  Click on the Image to access the full demo!
-</p>
-
-<p align="center">
-    <img width="512" height="262" href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
-</p>
-<p align="center">
-  Click on the Image to access the full demo!
+  CAVE Simulation
 </p>
 
 <p align="center">
-    <img width="512" height="262" href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+    <img width="512" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Controller%20Mode%20GIF.gif?raw=true">
 </p>
 <p align="center">
-  Click on the Image to access the full demo!
+  Switching between HMD and Controller View
 </p>
 
 <p align="center">
-    <img width="512" height="262" href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
+    <img width="512" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Free%20and%20Unfreeze%20GIF.gif?raw=true">
 </p>
 <p align="center">
-  Click on the Image to access the full demo!
+  Freezing and Unfreezing the viewport
+</p>
+
+<p align="center">
+    <img width="512" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/Debug%20GIF.gif?raw=true">
+</p>
+<p align="center">
+  Debug Mode
 </p>
 
 ---
