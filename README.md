@@ -7,7 +7,7 @@ A virtual reality CAVE simulator in VR with Unity.
 
 ---
 <p align="center">
-    <img width="512" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/3-sided-cave.jpg?raw=true">
+    <img width="1024" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/3-sided-cave.jpg?raw=true">
 </p>
 
 <p align="center">
