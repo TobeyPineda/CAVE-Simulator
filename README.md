@@ -8,7 +8,7 @@ A virtual reality CAVE simulator in VR with Unity.
 ---
 <p align="center">
   <a href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/"  >
-    <img width="512" height="262" src="images/3-sided-save.jpg">
+    <img width="512" height="262" src="https://github.com/TobeyPineda/CAVE-Simulator/blob/main/Images/3-sided-cave.jpg?raw=true">
   </a>
 </p>
 <p align="center">
