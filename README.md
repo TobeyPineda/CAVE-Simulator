@@ -11,7 +11,7 @@ A virtual reality CAVE simulator in VR with Unity.
 </p>
 
 <p align="center">
-  A 3-sided virtual reality CAVE
+  A 3-sided CAVE VR System
 </p>
 
 ---
